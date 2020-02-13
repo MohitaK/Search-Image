@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MohitaK/imageSearch.git/static/css/main.d1b0f50d.chunk.css",
+    "main.js": "/MohitaK/imageSearch.git/static/js/main.80d4b54d.chunk.js",
+    "main.js.map": "/MohitaK/imageSearch.git/static/js/main.80d4b54d.chunk.js.map",
+    "runtime-main.js": "/MohitaK/imageSearch.git/static/js/runtime-main.80ac6131.js",
+    "runtime-main.js.map": "/MohitaK/imageSearch.git/static/js/runtime-main.80ac6131.js.map",
+    "static/css/2.1087be86.chunk.css": "/MohitaK/imageSearch.git/static/css/2.1087be86.chunk.css",
+    "static/js/2.e5195538.chunk.js": "/MohitaK/imageSearch.git/static/js/2.e5195538.chunk.js",
+    "static/js/2.e5195538.chunk.js.map": "/MohitaK/imageSearch.git/static/js/2.e5195538.chunk.js.map",
+    "index.html": "/MohitaK/imageSearch.git/index.html",
+    "precache-manifest.623eabb5c89eb514c2e1d8bb4a4331fd.js": "/MohitaK/imageSearch.git/precache-manifest.623eabb5c89eb514c2e1d8bb4a4331fd.js",
+    "service-worker.js": "/MohitaK/imageSearch.git/service-worker.js",
+    "static/css/2.1087be86.chunk.css.map": "/MohitaK/imageSearch.git/static/css/2.1087be86.chunk.css.map",
+    "static/css/main.d1b0f50d.chunk.css.map": "/MohitaK/imageSearch.git/static/css/main.d1b0f50d.chunk.css.map",
+    "static/js/2.e5195538.chunk.js.LICENSE": "/MohitaK/imageSearch.git/static/js/2.e5195538.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80ac6131.js",
+    "static/css/2.1087be86.chunk.css",
+    "static/js/2.e5195538.chunk.js",
+    "static/css/main.d1b0f50d.chunk.css",
+    "static/js/main.80d4b54d.chunk.js"
+  ]
+}
